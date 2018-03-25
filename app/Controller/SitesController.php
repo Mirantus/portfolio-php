@@ -13,7 +13,10 @@
 
             $this->render([
                 'vars' => [
-                    'items' => Sites::find(['where' => 'YEAR(date) = :year'], ['year' => $year]),
+                    'items' => Sites::find([
+                        'where' => 'YEAR(date) = :year',
+                        'orderBy' => 'id desc'
+                    ], ['year' => $year]),
                     'year' => $year,
                     'years' => $years,
                 ],
