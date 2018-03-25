@@ -3,7 +3,7 @@
 
     use core\Model;
 
-    class SitesItem extends Model {
+    class Sites extends Model {
         /**
          * @var array
          */
