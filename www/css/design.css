@@ -46,7 +46,7 @@ img { border: 0; }
 	width: 200px;	
 }
 
-.pager { margin-top: 20px; }
+.pager { margin-top: 20px; margin-bottom: 20px; }
 .image-block
 {
 	float: left;

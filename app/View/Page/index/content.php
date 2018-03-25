@@ -16,6 +16,7 @@
         <li>Создание тем Wordpress и др.</li>
     </ul>
     <p style="margin-top: 20px">
+        <a href="https://github.com/Mirantus">Профиль на github</a><br>
         <a href="http://habrahabr.ru/users/mirantus/">Профиль на habrahabr</a>
     </p>
 </div>
@@ -31,14 +32,15 @@
 <h4>Web-программирование</h4>
 <ul>
     <li>Html, Xml/Xslt,Javascript, Php, Sql</li>
-    <li>Фреймворки: Bootstrap, JQuery, ExtJS, ReactJs, Yii2, Laravel, CakePHP, Zend Framework</li>
+    <li>Фреймворки: Bootstrap, JQuery, ExtJS, React/Redux, Laravel, Zend Framework</li>
 </ul>
 <h3>Работы</h3>
 <ul>
+    <li>Работа над внутренним проектом <a href="http://zarplata.ru">Сбербанка</a></li>
+    <li>Работа над проектом <a href="https://zarplata.ru">Зарплата.ру</a></li>
+    <li>Работа над крупнейшими в Сибири порталами об охоте и рыбалке: <a href="http://fishingsib.ru">fishingsib.ru</a>, <a href="http://fishing.ru">fishing.ru</a>, <a href="http://hunting.ru">hunting.ru</a></li>
+    <li>Верстка около 300 <a href="/templates/">шаблонов</a> для Sitebuilder</li>
+    <li>Верстка всех <a href="/skins/">скинов</a> для <a href="http://www.parallels.com/ru/products/sitebuilder/">Sitebuilder</a></li>
     <li>Участие в разработке <a href="http://www.parallels.com/ru/products/plesk/web-presence-builder/" target="_blank">Web Presence Builder</a></li>
     <li>Программирование и разработка <a href="/sites/">сайтов</a></li>
-    <li>Верстка всех <a href="/skins/">скинов</a> для <a href="http://www.parallels.com/ru/products/sitebuilder/">Sitebuilder</a></li>
-    <li>Верстка около 300 <a href="/templates/">шаблонов</a> для Sitebuilder</li>
-    <li>Работа над крупнейшими в Сибири порталами об охоте и рыбалке: <a href="http://fishingsib.ru">fishingsib.ru</a>, <a href="http://fishing.ru">fishing.ru</a>, <a href="http://hunting.ru">hunting.ru</a></li>
-    <li>Работа над проектом <a href="http://zarplata.ru">Зарплата.ру</a></li>
 </ul>
