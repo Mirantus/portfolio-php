@@ -1,7 +1,7 @@
 <?php
 $config['database'] = [
     'host' => 'localhost',
-    'dbname' => 'midi',
+    'dbname' => 'u7563113_ms',
     'user' => 'root',
     'password' => '',
 ];

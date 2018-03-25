@@ -1,1 +1,0 @@
-<a href="#"><img src="/i/blank.gif" alt="" width="81" height="15"></a>

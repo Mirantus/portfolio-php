@@ -4,7 +4,7 @@
     use core\Controller;
 
     class PageController extends Controller {
-        public function contacts() {
+        public function index() {
             $this->render();
         }
 
