@@ -190,6 +190,7 @@
             $routePart = preg_replace_callback('/\([^\)]*\)/', function () use (&$params) {
                 return array_shift($params);
             }, $this->pages[$alias]['route']);
+            $routePart = str_replace('/?', '', $routePart);
 
             $queryPart = empty($query) ? '' : '?' . http_build_query($query);
             return $this->url . $routePart . $queryPart;
